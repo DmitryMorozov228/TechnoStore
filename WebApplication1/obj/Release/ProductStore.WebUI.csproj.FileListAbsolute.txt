@@ -1,0 +1,297 @@
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Moq.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.Web.Common.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Owin.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\ProductStore.Domein.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\WebActivator.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\ProductStore.Domein.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Moq.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.Web.Common.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.Web.Common.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\obj\Release\ProductStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.Migration1.resources
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\obj\Release\ProductStore.WebUI.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Moq.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.Web.Common.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Owin.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\ProductStore.Domein.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\WebActivator.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\ProductStore.Domein.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Moq.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.Web.Common.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.Web.Common.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\obj\Release\ProductStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.Migration1.resources
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\obj\Release\ProductStore.WebUI.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.Migration2.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\ApplicationInsights.config
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\csc.exe
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\vbc.exe
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\WebApplication1.dll.config
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\WebApplication1.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\WebApplication1.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\EntityFramework.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Moq.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.Web.Common.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.Web.Mvc.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Owin.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\ProductStore.Domein.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Helpers.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Mvc.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Optimization.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Razor.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.WebPages.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\WebActivator.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\WebGrease.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\ProductStore.Domein.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Moq.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.Web.Common.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.Web.Common.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.Web.Mvc.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Ninject.Web.Mvc.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Helpers.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Mvc.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Optimization.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.Razor.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.WebPages.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\EntityFramework.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\obj\Release\ProductStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\obj\Release\WebApplication1.Migrations.Migration1.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\obj\Release\WebApplication1.Migrations.Migration2.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\obj\Release\WebApplication1.Migrations.Migration3.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\obj\Release\ProductStore.WebUI.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\obj\Release\WebApplication1.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\WebApplication1\obj\Release\WebApplication1.pdb

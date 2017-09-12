@@ -1,0 +1,45 @@
+﻿@using WebApplication1.Models;
+@model CategoryViewModel
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdminPage.cshtml";
+}
+
+@{ 
+    ViewBag.Title = "Редактирование категории";
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<link href="~/Content/ErrorStyles.css" rel="stylesheet" />
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+    <div class="panel">
+        <div class="panel-heading">
+            @if (@Model.Name != null)
+            {
+                <h3>Редактирование категории «@Model.Name»</h3>
+            }
+            else
+            {
+                <h3>Добавление новой категории</h3>
+            }
+        </div>
+        @using (Html.BeginForm("EditCategory", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="panel-body">
+                @Html.HiddenFor(m => m.Id)
+                <div class="form-group">
+                    <label>@("Name")</label>
+                    @Html.TextBoxFor(m => m.Name, Model.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="panel-footer">
+                <input class="btn btn-primary" type="submit" value="Сохранить" />
+                @Html.ActionLink("Отменить изменения и вернуться к списку", "ListOfCategories", null, new { @class = "btn btn-default" })
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,103 @@
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll.config
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Helpers.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Mvc.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Razor.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Helpers.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Mvc.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Razor.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domain.csprojResolveAssemblyReference.cache
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration1.resources
+D:\Учёба\6 сем\МиАОИ\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domain.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll.config
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Helpers.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Mvc.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Razor.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Helpers.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Mvc.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Razor.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domain.csprojResolveAssemblyReference.cache
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration1.resources
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domain.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll.config
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Helpers.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Mvc.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Razor.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Helpers.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Mvc.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.Razor.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration1.resources
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domain.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration2.resources
+D:\Учёба\6 сем\Надёжность ПО\WebApplication1\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration3.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll.config
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\EntityFramework.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.Helpers.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.Mvc.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.Razor.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.WebPages.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\EntityFramework.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.Helpers.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.Mvc.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.Razor.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.WebPages.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration1.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration2.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration3.resources
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\obj\Debug\ProductStore.Domain.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\obj\Debug\ProductStore.Domein.dll
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\obj\Debug\ProductStore.Domein.pdb
+D:\Учёба\6 сем\Курсач Web-приложения\Интернет-магазин\ProductStore.Domein\obj\Debug\ProductStore.Domein.Migrations.DimasikaMigration4.resources

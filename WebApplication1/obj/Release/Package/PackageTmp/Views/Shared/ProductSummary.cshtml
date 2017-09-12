@@ -1,0 +1,25 @@
+﻿@model ProductStore.Domein.Entities.Product
+
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic" rel="stylesheet" type="text/css">
+
+
+
+<div class='box photo col2'>
+    @if (Model.ImageData != null)
+    {
+        <a href="#"><img src='@Url.Action("GetImage", "Product", new { Model.ProductId })' alt="desc" /></a>
+    }
+    else
+    {
+        <a href="#"><img src='~/Content/images/prod_thumb.png' alt="desc" /></a>
+    }
+    <h4 style="text-align:center"><strong>@Model.Name</strong></h4>
+    <p><small>@Model.Description</small></p>
+    @if (Request.IsAuthenticated)
+    {
+        <p style="text-align:center"><a href="@Url.Action("AddToCart","Cart", new { Model.ProductId, returnUrl = Request.Url.PathAndQuery })" class="button small radius">Добавить в корзину</a></p>
+    }
+    <span class="pull-right label label-primary">@Model.Price.ToString("C2")</span> 
+</div>
+
+

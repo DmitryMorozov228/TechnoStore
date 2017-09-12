@@ -1,0 +1,102 @@
+﻿@using ProductStore.WebUI.Models;
+@model CategoriesListViewModel
+@{
+    Layout = "~/Views/Shared/_LayoutAdminPage.cshtml";
+}
+
+@{ 
+    ViewBag.Title = "Редактирование товара";
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<link href="~/Content/ErrorStyles.css" rel="stylesheet"/>
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+    <div class="panel">
+        <div class="panel-heading">
+            @if (@Model.Product.Name != null)
+            {
+                <h3>Редактирование товара «@Model.Product.Name»</h3>
+            }
+            else
+            {
+                <h3>Добавление нового товара</h3>
+            }  
+        </div>
+        @using (Html.BeginForm("EditProduct", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="panel-body">
+                @Html.HiddenFor(m => m.Product.ProductId)
+                <div class="form-group">
+                    <label>@("Name")</label>
+                    @Html.TextBoxFor(m => m.Product.Name, Model.Product.Name, new { @class = "form-control", @pattern = "^[a-zA-Z0-9]{3,50}" })
+                    @Html.ValidationMessageFor(m => m.Product.Name, "", new { @style = "display: flex" })
+                    <label>@("Price")</label>
+                    @Html.TextBoxFor(m => m.Product.Price, Model.Product.Price.ToString(), new { @class = "form-control", @id = "test" })
+                    @Html.ValidationMessageFor(m => m.Product.Price, "", new { @style = "display: flex" })
+                    <label>@("Descriptions")</label>
+                    @Html.TextAreaFor(m => m.Product.Description, new { @class = "form-control", @pattern = "[а-яА-я0-9]{3,300}", rows = 5 })
+                    @Html.ValidationMessageFor(m => m.Product.Description, "", new { @style = "display: flex" })
+                </div>
+
+                @foreach (var property in ViewData.ModelMetadata.Properties)
+                {
+                    switch (property.PropertyName)
+                    {
+                        case "Product":
+                            break;
+                        case "Categories":
+                            <label>@(property.DisplayName ?? property.PropertyName)</label>
+                            @Html.DropDownListFor(m => m.Product.CategoryID, Model.Categories, "", new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Product.CategoryID, "", new { @style = "display: flex" })
+                            break;
+                        default:
+                            break;
+                    }
+                }
+                <div class="form-group">
+                    <div style="position:relative">
+                        <label>Картинка</label>
+                        <a class="btn" href='javascript:;'>
+                            Выберите файл...
+                            <input type="file" name="Image" size="40" style="position:absolute;z-index:2;top:0;left:0;filter:alpha(opacity=0);opacity:0;
+                                background-color:transparent;color:transparent;" onchange='$("#upload-file-info").html($(this).val())' />
+                        </a>
+                        <span class="label label-info" id="upload-file-info"></span>
+                    </div>
+                    @if (Model.Product.ImageData == null)
+                {
+                        <div class="form-control-static">Нет картинки</div>
+                    }
+                    else
+                    {
+                        <img class="img-thumbnail" width="100" height="100" src="@Url.Action("GetImage", "Product", new { Model.Product.ProductId})" />
+                    }
+                </div>
+            </div>
+            <div class="panel-footer">
+                <input class="btn btn-primary" type="submit" value="Сохранить" />
+                @Html.ActionLink("Отменить изменения и вернуться к списку", "List", null, new { @class = "btn btn-default" })
+            </div>
+        }
+    </div>
+</div>
+
+@*<script type="text/javascript">
+$("#test").on("input blur", function (e) {
+    var str = $(this).val(),
+        reg = /[\d\.]/,
+        str = str.replace(",", ".").replace(/^\./, "0,").replace(/^0(\d)/, "$1"),
+        len = 15 < str.length ? 15 : str.length,
+        b = 0;
+    for (; b < len && reg.test(str.charAt(b)); b++) "." == str.charAt(b) && (reg = /\d/, len = b + 3);
+    e.type == "blur" && (str = str.replace(/\.$/, ""))
+    $(this).val(str.slice(0, b))
+});
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}*@

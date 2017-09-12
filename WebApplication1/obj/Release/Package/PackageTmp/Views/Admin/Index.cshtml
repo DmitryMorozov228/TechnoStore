@@ -1,0 +1,71 @@
+﻿@using WebApplication1.Models;
+@model AdminViewModels
+
+@{ 
+    Layout = "~/Views/Shared/_LayoutAdminPage.cshtml";
+}
+
+@{
+    ViewBag.Title = "Список пользователей";
+}
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Пользователи</h1>
+        </div>
+    </div><!--/.row-->
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            Учетные записи
+        </div>
+        <table class="table table-striped">
+            <tr>
+                <th>Логин</th>
+                <th>Email</th>
+                <th>Роль</th>
+                <th></th>
+                <th></th>
+            </tr>
+            @if (@Model.Users.Count() == 0)
+            {
+                <tr>
+                    <td colspan="3" class="text-center">Нет ни одной учетной записи</td>
+                </tr>
+            }
+            else
+            {
+                int i = 0;
+                foreach (ApplicationUser user in Model.Users)
+                {
+                    <tr>
+                        <td>@user.UserName</td>
+                        <td>@user.Email</td>
+                        <td>@Model.Roles[i]</td>
+                        <td>
+                            @if (user.UserName != User.Identity.Name)
+                            {  
+                                <a href="@Url.Action("EditUser","Admin", new { id = user.Id})" onclick="return confirm('Вы действительно хотите снять/выдать права администратора выбранному пользователю?');"><span class="edit-user glyphicon glyphicon-pencil"></span></a>        
+                            }
+                        </td>
+                        <td>
+                            @if (user.UserName != User.Identity.Name)
+                            {
+                                <a href="@Url.Action("DeleteUser","Admin", new { id = user.Id})" onclick="return confirm('Вы действительно хотите удалить выбранного пользователя?');"><span class="delete-user glyphicon glyphicon-remove"></span></a>
+                            }
+                        </td>
+                    </tr>
+                    i++;
+                }
+            }
+        </table>
+    </div>	
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">                  
+            </div>
+        </div>
+    </div><!--/.row-->
+    </div><!--/.row-->
+</div>	<!--/.main-->

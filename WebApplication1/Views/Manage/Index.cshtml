@@ -1,0 +1,44 @@
+﻿@model WebApplication1.Models.IndexViewModel
+@{
+    ViewBag.Title = "Профиль";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>Change your account settings</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Login:</dt>
+        <dd>
+            @User.Identity.Name
+        </dd>
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Change your password", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Create", "SetPassword")
+            }
+            ]
+        </dd>
+        <dt>Role:</dt>
+        @if (User.IsInRole("Administrator"))
+        {
+            <dd>
+                Administrator
+            </dd>
+        }
+        else
+        {
+            <dd>
+                User
+            </dd>
+        }
+    </dl>
+</div>

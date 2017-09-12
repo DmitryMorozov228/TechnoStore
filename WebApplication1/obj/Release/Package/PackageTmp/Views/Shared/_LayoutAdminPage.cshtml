@@ -1,0 +1,148 @@
+﻿@using Microsoft.AspNet.Identity;
+@using WebApplication1.Models;
+@model ViewModelsBase
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="@Url.Content("~/Scripts/main.js")"></script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <span class="shop glyphicon-shopping-cart"></span>
+                @Html.ActionLink("TechnoStore", "List", "Product", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+                {
+                @Html.AntiForgeryToken()
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <div class="dropdown">
+                            <button class="profile dropdown-toggle" type="button" data-toggle="dropdown">
+                                @User.Identity.GetUserName()
+                                <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu">
+
+                                <li>
+                                    <a href="@Url.Action("Index","Manage")"><span class="glyphicon glyphicon-user"></span>   Профиль</a>
+                                </li>
+                                @if (Request.IsAuthenticated && User.IsInRole("Administrator"))
+                                {
+                                    <li><a href="@Url.Action("Index","Admin")"><span class="glyphicon glyphicon-eye-open"></span>   Админ-панель</a></li>
+                                }
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:document.getElementById('logoutForm').submit()">Выход</a></li>
+                </ul>
+                }
+            </div>
+            <div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
+                <ul class="nav menu">
+                    <li class="active"><a class="text-color" href="@Url.Action("Index","Admin")"><span class="glyphicon glyphicon-user"></span> Пользователи</a></li>
+                    <li class="active"><a class="text-color" href="@Url.Action("List","Admin")"><span class="glyphicon glyphicon-shopping-cart"></span> Товары</a></li>
+                    <li class="active"><a class="text-color" href="@Url.Action("ListOfCategories", "Admin")"><span class="glyphicon glyphicon-th-list"></span> Категории</a></li>
+                    <li role="presentation" class="divider"></li>
+                </ul>
+            </div>        
+        </div>
+    </div>
+    <div class="container body-content">
+        <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+            @if (TempData["success"] != null)
+            {
+                <div class="style-message alert alert-success">@TempData["success"]</div>
+            }
+            @if (TempData["error"] != null)
+            {
+                <div class="style-message alert alert-danger">@TempData["error"]</div>
+            }
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Админ-панель</h1>
+                </div>
+            </div><!--/.row-->
+
+            <div class="row">
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="panel panel-blue panel-widget ">
+                        <div class="row no-padding">
+                            <div class="col-sm-3 col-lg-5 widget-left">
+                                <svg class="glyph stroked bag"><use xlink:href="#stroked-bag"></use></svg>
+                            </div>
+                            <div class="col-sm-9 col-lg-7 widget-right">
+                                <div class="large" id="products">@Model.CountOfProducts</div>
+                                <div class="text-muted" id="text1">
+                                    <script>setProducts()</script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="panel panel-orange panel-widget">
+                        <div class="row no-padding">
+                            <div class="col-sm-3 col-lg-5 widget-left">
+                                <svg class="glyph stroked empty-message"><use xlink:href="#stroked-empty-message"></use></svg>
+                            </div>
+                            <div class="col-sm-9 col-lg-7 widget-right">
+                                <div class="large">52</div>
+                                <div class="text-muted">Comments</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="panel panel-teal panel-widget">
+                        <div class="row no-padding">
+                            <div class="col-sm-3 col-lg-5 widget-left">
+                                <svg class="glyph stroked male-user"><use xlink:href="#stroked-male-user"></use></svg>
+                            </div>
+                            <div class="col-sm-9 col-lg-7 widget-right">
+                                <div class="large" id="users">@Model.CountOfUsers</div>
+                                <div class="text-muted" id="text2">
+                                    <script>setUsers()</script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="panel panel-red panel-widget">
+                        <div class="row no-padding">
+                            <div class="col-sm-3 col-lg-5 widget-left">
+                                <svg class="glyph stroked app-window-with-content"><use xlink:href="#stroked-app-window-with-content"></use></svg>
+                            </div>
+                            <div class="col-sm-9 col-lg-7 widget-right">
+                                <div class="large" id="categories">@Model.CountOfCategories</div>
+                                <div class="text-muted" id="text3">
+                                    <script>setCategories()</script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/.row-->
+        </div>
+        @RenderBody()
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

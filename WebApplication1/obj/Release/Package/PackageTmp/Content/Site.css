@@ -1,0 +1,298 @@
+﻿html { 
+ position:relative; 
+ min-height:100%;
+}
+
+body {
+    height: 100%; /* высота HTML и BODY */
+    margin: 0; /* убираем поля по краям страницы */
+    padding-bottom: 100px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 100px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+.navbar-right {
+            float: right !important;
+            margin-right: 15px;
+            margin-left: 15px;
+}
+
+.profile {
+    color: #999999;
+    background-color: #222222;
+    border-color: #222222;
+    display: inline-block;
+    padding: 14px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    user-select: none;
+}
+
+.shop {
+    position: relative;
+    top: 5px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    font-size: 30px;
+    color: #999999;
+}
+
+.shopping {
+    position: relative;
+    top: 5px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    font-size: 20px;
+    color: #999999;
+}
+
+.edit-user {
+    color: #111;
+}
+
+.delete-user{
+    color: #f00;
+}
+
+.style-message {
+    margin-top: 10px;
+}
+
+.myButton {
+	background-color: #428bca;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 1px solid #428bca;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 13px;
+    padding: 14px 18px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
+    margin-left: 370px;
+}
+.myButton:hover {
+	background-color:#1a429a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-menu {
+    border-radius: 0;
+}
+
+.mypanel{
+    padding: 50px 0;
+}
+
+.list-style{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.input-group {
+    position: absolute;
+    display: inline-flex;
+    border-collapse: separate;
+    margin-left: 110px;
+    margin-top: 8px;
+}
+
+.input-groups {
+    position: absolute;
+    display: inline-flex;
+    border-collapse: separate;
+    margin-left: 160px;
+    margin-top: 8px;
+}
+
+.checkout {
+    margin-left: 818px;
+    position: initial;
+}
+
+.cart {
+    position: absolute;
+    border-collapse: separate;
+    margin-left: 576px;
+    margin-top: 16px;
+}
+
+.logmenu {
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -50px;
+}
+
+.clear {
+    clear: both; /* класс для прерывания обтекания */
+}
+
+#footer {
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    margin-top: 50px;
+    position: absolute;
+}
+
+#name{
+    color: #d76002;
+}
+
+.footer-text{
+    text-align: -webkit-center;
+    padding-top: 15px;
+}
+
+.col2 {width: 217px}
+
+.box {
+  margin: 5px;
+  padding: 10px;
+  background: #fff;
+  border: 0;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+  font-size: 100%;
+  line-height: 1.4em;
+  float: left;
+}
+
+.col2 img {
+    max-width: 250px;
+}
+
+.box img, #tumblelog img {
+    display: block;
+    width: 100%;
+}
+
+a img {
+    border: none;
+}
+
+img, object, embed {
+    width: 240px;
+    height: 200px;
+}
+
+.section_light {
+    background: #FFF;
+    border-top: 1px dotted #999;
+    border-bottom: 1px dotted #999;
+    padding: 20px 0;
+    clear: both;
+}
+
+strong, b {
+    font-weight: bold;
+    line-height: inherit;
+}
+
+.box h4 {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 0px;
+}
+
+small {
+    font-size: 80%;
+    line-height: inherit;
+}
+
+.button.small {
+    font-size: 11px;
+    padding: 7px 14px 8px;
+}
+
+.button {
+    width: auto;
+    background: #2ba6cb;
+    border: 1px solid #1e728c;
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.5) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255,255,255,0.5) inset;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.5) inset;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0;
+    outline: none;
+    padding: 10px 20px 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: background-color 0.15s ease-in-out;
+    -moz-transition: background-color 0.15s ease-in-out;
+    -o-transition: background-color 0.15s ease-in-out;
+    transition: background-color 0.15s ease-in-out;
+}
+
+.button.radius {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.masonry{
+    margin-left: 180px;
+    width: 910px;
+    height: 850px;
+}
+
+.links {
+    padding-top: 30px;
+    position: absolute;
+    display: flex;
+    margin-left: 640px;
+}
+
+.text-color {
+    color: darkgray;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}

@@ -1,0 +1,62 @@
+﻿@model ProductStore.WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "ProductStore: Ваша корзина";
+}
+
+<style>
+    #cartTable td {
+        vertical-align: middle;
+    }
+</style>
+
+@TempData["message"]
+<h2>Ваша корзина</h2>
+<table id="cartTable" class="table">
+    <thead>
+        <tr>
+            <th>Кол-во</th>
+            <th>Товар</th>
+            <th>Цена</th>
+            <th>Общая цена</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Cart.Lines)
+        {
+            <tr>
+                <td>@line.Quantity</td>
+                <td>@line.Product.Name</td>
+                <td>@line.Product.Price.ToString("C2")</td>
+                <td>@((line.Quantity * line.Product.Price).ToString("C2"))</td>
+                <td><a href="@Url.Action("RemoveFromCart","Cart", new { ProductId = line.Product.ProductId })" onclick="return confirm('Вы действительно хотите удалить из корзины выбранный товар?');"><span class="delete-user glyphicon glyphicon-remove"></span></a></td>
+            </tr>
+        }
+    </tbody>
+    @if (Model.Cart.Lines.Count() == 0)
+    {
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-right">Корзина пуста</td>
+            </tr>
+        </tfoot>
+    }
+    else
+    {
+        <tfoot>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>Итого:</td>
+                <td>@Model.Cart.ComputeTotalValue().ToString("C2")</td>
+                <td><a href="@Url.Action("RemoveFromCart","Cart", new { ProductId = 0})" onclick="return confirm('Вы действительно хотите удалить из корзины все товары?');"><span class="delete-user glyphicon glyphicon-remove"></span></a></td>
+            </tr>
+        </tfoot>
+    }
+</table>
+
+<div class="text-center">
+    <a class="btn btn-primary" href="/Product/List">Продолжить покупки</a>
+    @Html.ActionLink("Оформить заказ", "CheckOut", null, new { @class = "btn btn-primary" })
+</div>

@@ -1,0 +1,16 @@
+X-Sender: Productstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: Productstore@example.com
+To: orders@example.com
+Date: 14 May 2017 13:51:14 +0300
+Subject: =?utf-8?B?0J3QvtCy0YvQuSDQt9Cw0LrQsNC3INC+0YLQv9GA0LDQstC7?=
+ =?utf-8?B?0LXQvSE=?=
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+0J3QvtCy0YvQuSDQt9Cw0LrQsNC3INC+0LHRgNCw0LHQvtGC0LDQvQ0KLS0tDQrQotC+
+0LLQsNGA0Ys6DQoxIHggUHJvZHVjdCAo0LjRgtC+0LPQvjogJDIwMC4wMNCe0LHRidCw
+0Y8g0YHRgtC+0LjQvNC+0YHRgtGMOiAkMjAwLjAwLS0tDQrQlNC+0YHRgtCw0LLQutCw
+Og0KZGltYXMNCmQNCg0KDQpkDQpkDQotLS0NCtCf0L7QtNCw0YDQvtGH0L3QsNGPINGD
+0L/QsNC60L7QstC60LA6INCd0LXRgg==

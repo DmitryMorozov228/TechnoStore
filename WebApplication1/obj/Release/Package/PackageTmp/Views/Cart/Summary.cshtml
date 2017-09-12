@@ -1,0 +1,18 @@
+﻿@model ProductStore.Domein.Entities.Cart
+
+<script src="@Url.Content("~/Scripts/main.js")"></script>
+
+<div class="cart">
+    <b>Ваша корзина:</b>
+    <b id="count">@Model.Lines.Sum(x => x.Quantity)</b> 
+    <b> </b>
+    <b id="text4">
+        <script>setCount()</script>,
+    </b>
+    @Model.ComputeTotalValue().ToString("C2")
+</div>
+<div class="checkout">
+    @Html.ActionLink("Оформить заказ", "Index", "Cart",
+    new { returnUrl = Request.Url.PathAndQuery },
+    new { @class = "btn-check btn-default navbar-btn" })
+</div>
